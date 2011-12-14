@@ -1,0 +1,4 @@
+-main Sleipnir
+-x bin/slep
+-lib hxjson2
+#-cmd neko bin/Sleipnir.n
